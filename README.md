@@ -17,11 +17,17 @@ The analysis combines data cleaning, exploration, visualization, and strategy fo
 ****📊 Key Findings & Insights****
 
 **Sales Channel:** Amazon.in is the dominant sales channel.
+
 **Fulfillment Efficiency:** Amazon-fulfilled orders have faster delivery and fewer returns than merchant-fulfilled orders.
+
 **Top Performing Regions:** Maharashtra, Karnataka, Uttar Pradesh, and Tamil Nadu.
+
 **Customer Demographics:** Most customers are from metro/Tier-1 cities with higher female engagement in fashion categories.
+
 **Product Performance:** Sets, Kurtas, and Western Dresses are bestsellers. SKUs like J0230-SKD-M and JNE3781 stand out.
+
 **Returns:** Higher return rates in apparel categories suggest quality or sizing issues.
+
 **B2B Sales:** Fewer in number but higher in average order value and lower in returns.
 
 ****📝 Actionable Recommendations****
